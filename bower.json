@@ -1,0 +1,17 @@
+{
+    "name": "portersansblock-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Tyler Finck"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/portersansblock-bower.git"
+    },
+    "description": "Porter Sans Block font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
